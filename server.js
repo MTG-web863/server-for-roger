@@ -13,5 +13,5 @@ app.get('/', function (req, res) {
 app.use(express.static('./public'));
 app.use(bodyParser.urlencoded({ extended: false }));
 app.listen(3000, function () {
-    console.log('bruh yall too highspeed for me g :,/')
+    console.log('what up brah')
 });
