@@ -1,0 +1,23 @@
+{
+  "name": "serverpackage.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MTG-web863/server-for-roger.git"
+  },
+  "author": "mt bby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MTG-web863/server-for-roger/issues"
+  },
+  "homepage": "https://github.com/MTG-web863/server-for-roger#readme",
+  "dependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
